@@ -35,14 +35,17 @@ I'm TENSHKUMAR, computer science student at NSCET. I am a tech enthusiast and fu
 <hr>
 <br>
 
+### 👀 Visit Count:
+
+<br>
+[![](https://visitcount.itsvg.in/api?id=TENSHKUMAR-KKT-2004&icon=0&color=3)](https://visitcount.itsvg.in)
+<hr>
+<br>
+
 ### ✍️ Random Dev Quote:
 
 <br>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
----
-### 👀 Visit Count:
-[![](https://visitcount.itsvg.in/api?id=TENSHKUMAR-KKT-2004&icon=0&color=3)](https://visitcount.itsvg.in)
 <hr>
 <br>
 
@@ -50,7 +53,6 @@ I'm TENSHKUMAR, computer science student at NSCET. I am a tech enthusiast and fu
 
 <br>
 <a href="https://github.com/TENSHKUMAR-KKT-2004">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=TENSHKUMAR-KKT- 
-  2004&bg_color=000000&color=bbff00&line=2ba522&point=add2af&area=true&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=TENSHKUMAR-KKT-2004&bg_color=000000&color=bbff00&line=2ba522&point=add2af&area=true&hide_border=true" />
 </a>
 <br>
