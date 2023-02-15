@@ -17,10 +17,12 @@ I'm TENSHKUMAR, computer science student at NSCET. I am a tech enthusiast and fu
 <p align="center">
   <a href="https://github.com/TENSHKUMAR-KKT-2004">
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=TENSHKUMAR-KKT-2004&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" />
+    <br>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TENSHKUMAR-KKT-2004&theme=onedark&hide_border=false" />
+    <br>
     <img align='center' src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TENSHKUMAR-KKT-2004&theme=2077' />
+    <br>
     <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=TENSHKUMAR-KKT-2004&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact' />
-    <img align='center' scr='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TENSHKUMAR-KKT-2004&theme=2077' />
   </a>
 </p>
 <hr>
@@ -29,7 +31,7 @@ I'm TENSHKUMAR, computer science student at NSCET. I am a tech enthusiast and fu
 
 <br>
  <a href="https://github.com/TENSHKUMAR-KKT-2004">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=TENSHKUMAR-KKT-2004&theme=monokai&no-frame=false&no-bg=false&margin-w=4" />
+  <img align='center' alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=TENSHKUMAR-KKT-2004&theme=monokai&no-frame=false&no-bg=false&margin-w=4" />
  </a> 
 <hr>
 
@@ -37,7 +39,7 @@ I'm TENSHKUMAR, computer science student at NSCET. I am a tech enthusiast and fu
 
 <br>
  <a href="https://github.com/TENSHKUMAR-KKT-2004">
-  <img alt="GitHub Trophies" src="https://visitcount.itsvg.in/api?id=TENSHKUMAR-KKT-2004&icon=0&color=3)](https://visitcount.itsvg.in" />
+  <img align='center' alt="Visit Count" src="https://visitcount.itsvg.in/api?id=TENSHKUMAR-KKT-2004&icon=0&color=3" />
  </a> 
 <hr>
 
@@ -45,7 +47,7 @@ I'm TENSHKUMAR, computer science student at NSCET. I am a tech enthusiast and fu
 
 <br>
  <a href="https://github.com/TENSHKUMAR-KKT-2004">
-  <img alt="GitHub Trophies" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=light" />
+  <img align='center' alt="GitHub Trophies" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=light" />
  </a> 
 <hr>
 
@@ -53,6 +55,6 @@ I'm TENSHKUMAR, computer science student at NSCET. I am a tech enthusiast and fu
 
 <br>
 <a href="https://github.com/TENSHKUMAR-KKT-2004">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=TENSHKUMAR-KKT-2004&bg_color=000000&color=bbff00&line=2ba522&point=add2af&area=true&hide_border=true" />
+  <img align='center' alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=TENSHKUMAR-KKT-2004&bg_color=000000&color=bbff00&line=2ba522&point=add2af&area=true&hide_border=true" />
 </a>
 <br>
