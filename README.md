@@ -1,20 +1,14 @@
-<div align="center">
-<img alt="github-profile-quote-image" scr="https://user-images.githubusercontent.com/105140296/219121617-1754fdc0-db6a-4409-b194-561a61e885f5.jpg" width="75%" />
-</div>
-<br>
+![github-profile-quote-image](https://user-images.githubusercontent.com/105140296/219126970-c6ac8bb3-c6bd-40f9-b321-9f4897840946.jpg)
 
-### Hi there <img alt="hello" scr="https://user-images.githubusercontent.com/105140296/219125961-ab072a0f-6a93-452d-bc66-ceec2f730256.gif" />
+### Hi there 👋
 
 <p>I'm <b>TENSHKUMAR</b>, computer science student at NSCET. I am a Tech Enthusiast and Full-Stack Developer. And am always eager to learn and explore New Technologies to Enhance my Skills.</p>
 <br>
 
 ## 🌐 Social Links to Contact Me
 
-<pre>
-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/KKT#0438) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tenshkumar-k-61175124b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@tenshkumarkkt) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Tenshkumar-K) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/King_KKT) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21221119/tenshkumar-k) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/TENSHKUMAR_K) 
 
-</pre>
 
 <br>
 
