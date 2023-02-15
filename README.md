@@ -1,4 +1,5 @@
-![github-profile-quote-image](https://user-images.githubusercontent.com/105140296/219126970-c6ac8bb3-c6bd-40f9-b321-9f4897840946.jpg)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/105140296/219126970-c6ac8bb3-c6bd-40f9-b321-9f4897840946.jpg" alt="Failer" width="50%"></div>
 
 ### Hi there 👋
 
