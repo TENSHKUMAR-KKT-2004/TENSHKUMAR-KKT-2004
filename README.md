@@ -30,25 +30,31 @@ I'm TENSHKUMAR, computer science student at NSCET. I am a tech enthusiast and fu
 ### 🏆 GitHub Trophies:
 
 <br>
+<p align="center">
  <a href="https://github.com/TENSHKUMAR-KKT-2004">
   <img align='center' alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=TENSHKUMAR-KKT-2004&theme=monokai&no-frame=false&no-bg=false&margin-w=4" />
  </a> 
+</p>
 <hr>
 
 ### 👀 Visit Count:
 
 <br>
+<p align="center">
  <a href="https://github.com/TENSHKUMAR-KKT-2004">
   <img align='center' alt="Visit Count" src="https://visitcount.itsvg.in/api?id=TENSHKUMAR-KKT-2004&icon=0&color=3" />
  </a> 
+</p>
 <hr>
 
 ### ✍️ Random Dev Quote:
 
 <br>
+<p align="center">
  <a href="https://github.com/TENSHKUMAR-KKT-2004">
   <img align='center' alt="GitHub Trophies" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=light" />
  </a> 
+</p>
 <hr>
 
 ### 📈 GitHub Activity:
