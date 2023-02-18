@@ -1,9 +1,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/105140296/219126970-c6ac8bb3-c6bd-40f9-b321-9f4897840946.jpg" alt="Failer" width="45%">
 </div>
-### Hi there <img src="https://user-images.githubusercontent.com/105140296/219857830-80fcbcce-b4aa-4772-9280-3fc8a31ad01c.gif" width="28 > 
-
-  
+<h2 align = "left">Hi there <img src="https://user-images.githubusercontent.com/105140296/219857830-80fcbcce-b4aa-4772-9280-3fc8a31ad01c.gif" width="20" ></h2> 
 <p>I'm <b>TENSHKUMAR</b>, computer science student at NSCET. I am a Tech Enthusiast and Full-Stack Developer. And am always eager to learn and explore New Technologies to Enhance my Skills.</p>
 <br>
 
@@ -23,7 +21,7 @@
 </pre>
 <br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 > Programming Languages
 
@@ -118,7 +116,6 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 <hr>
-<br>
 
 ## ♾️ GitHub Stats:
 
@@ -173,17 +170,3 @@
   <img align='center' alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=TENSHKUMAR-KKT-2004&bg_color=000000&color=bbff00&line=2ba522&point=add2af&area=true&hide_border=true" />
 </a>
 <br>
-
-
-
-## 🌐 Socials:
- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TENSHKUMAR-KKT-2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TENSHKUMAR-KKT-2004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TENSHKUMAR-KKT-2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=TENSHKUMAR-KKT-2004&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
