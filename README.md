@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/105140296/219126970-c6ac8bb3-c6bd-40f9-b321-9f4897840946.jpg" alt="Failer" width="45%">
 </div>
-### Hi there 👋
+
+<he align= "left" >Hi there 👋</h2>
+
 <p>I'm <b>TENSHKUMAR</b>, computer science student at NSCET. I am a Tech Enthusiast and Full-Stack Developer. And am always eager to learn and explore New Technologies to Enhance my Skills.</p>
 <br>
 
