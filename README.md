@@ -1,13 +1,11 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/105140296/219126970-c6ac8bb3-c6bd-40f9-b321-9f4897840946.jpg" alt="Failer" width="45%">
 </div>
-<h2 align = "left">Hi there <img src="https://user-images.githubusercontent.com/105140296/219857830-80fcbcce-b4aa-4772-9280-3fc8a31ad01c.gif" width="20" ></h2> 
+### Hi there 👋
 <p>I'm <b>TENSHKUMAR</b>, computer science student at NSCET. I am a Tech Enthusiast and Full-Stack Developer. And am always eager to learn and explore New Technologies to Enhance my Skills.</p>
 <br>
 
-## 🌐 Social Links to Contact Me
-
-<pre>
+## 🌐 Social Links to Contact With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tenshkumar-k-61175124b/)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Tenshkumar-K)  
@@ -17,8 +15,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tensh_kumar_kkt/?hl=en)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/King_KKT)
 
-
-</pre>
 <br>
 
 ## 💻 Tech Stack:
@@ -153,7 +149,7 @@
 </p>
 <hr>
 
-### ✍️ Random Dev Quote:
+### ✍️ Dev Quote:
 
 <br>
 <p align="center">
