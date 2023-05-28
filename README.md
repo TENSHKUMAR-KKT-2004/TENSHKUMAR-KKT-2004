@@ -161,6 +161,6 @@
 
 <br>
 <a href="https://github.com/TENSHKUMAR-KKT-2004">
-  <img align='center' alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TENSHKUMAR-KKT-2004&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true&theme=github-dark" />
+  <img align='center' alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TENSHKUMAR-KKT-2004&theme=github-dark" />
 </a>
 <br>
