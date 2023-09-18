@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-<p>I'm <b>TENSHKUMAR</b>, computer science student at NSCET. I am a Tech Enthusiast and Full-Stack Developer. And am always eager to learn and explore New Technologies to Enhance my Skills.</p>
+<p>I'm <b>TENSHKUMAR</b>, computer science student at NSCET. I am a Tech Enthusiast and Self-Taught Developer, As a <strong>Full-Stack Developer</strong> and <strong>Blockchain Developer</strong> looking for an opportunity to work with real-time projects and explore New Technologies to Enhance my Skills.</p>
 <br>
 
 ## 🌐 Social Links to Contact With Me
